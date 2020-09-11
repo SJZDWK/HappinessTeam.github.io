@@ -42,7 +42,7 @@ rating: 0 = none, 5 = most experience
 
 3-Version Control (Git, SVN, etc.)	
 2-Data Base (SQL, MongoDB, etc.)	
-3-Written English
+3-Written English 
 2-Spoken English       
 
 ## Positions Wanted 
@@ -53,15 +53,15 @@ Choose all of interest: 0 = no interested, 5 = most interested
 
 2-Project Manager   
 5-Requirements Analyst	
-4-System Architect
-4-Developer
+4-System Architect 
+4-Developer 
 3-Tester
 
 ## Work Assignments of Interest
 
 Different teams will work on different parts of the Remote Authentication application. Refer to the Concept of Operations for a description of the application and subsystems. Please indicate which you are interested in working on (0=not interested, 5=most interested).
 
-3-Game Play
+3-Game Play 
 4-Client/Server	
 
 ## Other Skills or Experience
