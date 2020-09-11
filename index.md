@@ -38,7 +38,7 @@ rating: 0 = none, 5 = most experience
 0-iOS   
 0-Android
  
-### Other:  
+### Other  
 
 3-Version Control (Git, SVN, etc.)   
 2-Data Base (SQL, MongoDB, etc.)  
