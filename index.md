@@ -4,8 +4,8 @@
   <tr>
     <td width="75%">
       <h1>Name: Du Weikang</h1>
-      <p><b>I prefer to be called:Austin</b></p>
-      <p><b>University:Jilin University</b></p>
+      <p><b>I prefer to be called: Austin</b></p>
+      <p><b>University: Jilin University</b></p>
     </td>
     <td width="25%">
       <img src="/photo.JPG" width="100%">      
