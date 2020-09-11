@@ -28,6 +28,8 @@ rating: 0 = none, 5 = most experience
 
 2-Java 
 3-C   
+2-Java   
+3-C  
 3-C++   
 1-Python  
 0-JavaScript
