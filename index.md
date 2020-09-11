@@ -12,6 +12,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Name: _______Du Weikang________________ I prefer to be called: ___________Austin__________________
 
 University: __________Jilin University___
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Name: Du Weikang</h1>
+      <p><b>I prefer to be called:Austin</b></p>
+      <p><b>University:Jilin University</b></p>
+    </td>
+    <td width="25%">
+      <img src="/1寸.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 
 ## Personal Goals and Interests
 - Be an excellent software developer
