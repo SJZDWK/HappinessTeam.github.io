@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Distributed Team Student CV
 Name: _______Du Weikang________________ I prefer to be called: ___________Austin__________________
 
