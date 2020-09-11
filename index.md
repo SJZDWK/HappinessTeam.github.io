@@ -40,10 +40,10 @@ rating: 0 = none, 5 = most experience
  
 ### Other:  
 
-3-Version Control (Git, SVN, etc.)	
-2-Data Base (SQL, MongoDB, etc.)	
-3-Written English 
-2-Spoken English       
+3-Version Control (Git, SVN, etc.)   
+2-Data Base (SQL, MongoDB, etc.)  
+3-Written English   
+2-Spoken English    
 
 ## Positions Wanted 
 
@@ -52,9 +52,9 @@ Choose all of interest: 0 = no interested, 5 = most interested
 ### Roles
 
 2-Project Manager   
-5-Requirements Analyst	
-4-System Architect 
-4-Developer 
+5-Requirements Analyst  
+4-System Architect   
+4-Developer  
 3-Tester
 
 ## Work Assignments of Interest
