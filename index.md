@@ -11,11 +11,47 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Distributed Team Student CV
+Name: _______Du Weikang________________ I prefer to be called: ___________Austin__________________
+
+University: __________Jilin University___
+
+## Personal Goals and Interests
+- Be an excellent software developer
+- Learn the advanced skills as a system architect
+- Be a project manager after accumulating some experience
+- Interested in machine learning and cyber security
+
+## Skills (rating: 0 = none, 5 = most experience)
+
+### Languages
+ ___2__ Java  ___3__ C   _3___ C++   __1___ Python  _0__ JavaScript  Other: ________
+### Platform
+ __3__ Windows    __0_ iOS     ___0__ Android
+
+### Other:      
+__3__  Version Control (Git, SVN, etc.)	   _2__ Data Base (SQL, MongoDB, etc.)	
+
+___3__ Written English       ___2__ Spoken English        Other Languages: ______
+
+## Positions Wanted 
+Choose all of interest: 0 = no interested, 5 = most interested
+### Roles
+	__2__ Project Manager 	_5__Requirements Analyst	__4__ System Architect
+	__4____ Developer	___3___ Tester 	 
+## Work Assignments of Interest
+Different teams will work on different parts of the Remote Authentication application. Refer to the Concept of Operations for a description of the application and subsystems. Please indicate which you are interested in working on (0=not interested, 5=most interested).
+___3___ Game Play	___4___ Client/Server	
+## Other Skills or Experience
+List other skills or experiences potentially useful to a team such as teamwork experience, planning/managing, other programming projects, or work experience.  List any students you would prefer to work with.
+- Have ever developed some software programs in a team
+- Have experience about C/C++ and Java language
+- Prefer to work with Liu Shizhe, Chen Yuzhe, Xiu Kedong and An Di in the class
+
 
 - Bulleted
+
+
 - List
 
 1. Numbered
