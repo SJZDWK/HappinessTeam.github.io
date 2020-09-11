@@ -25,9 +25,7 @@
 rating: 0 = none, 5 = most experience
 
 ### Languages
-
-2-Java 
-3-C   
+   
 2-Java   
 3-C  
 3-C++   
@@ -63,8 +61,8 @@ Choose all of interest: 0 = no interested, 5 = most interested
 
 Different teams will work on different parts of the Remote Authentication application. Refer to the Concept of Operations for a description of the application and subsystems. Please indicate which you are interested in working on (0=not interested, 5=most interested).
 
-3-Game Play 
-4-Client/Server	
+3-Game Play  
+4-Client/Server
 
 ## Other Skills or Experience
 
