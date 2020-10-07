@@ -1,73 +1,88 @@
-# Distributed Team Student CV
+# Welcome to HT(Happyiness Team) Pages
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Name: Du Weikang</h1>
-      <p><b>I prefer to be called: Austin</b></p>
-      <p><b>University: Jilin University</b></p>
-    </td>
-    <td width="25%">
-      <img src="/photo.JPG" width="100%">      
-    </td>
-  </tr>
-</table>
+We chose Scoliosis Detection via X-ray Photo Recognition as the experimental subject.
 
-## Personal Goals and Interests
+The module we are responsible for is the server side. In fact, you can think of a server as an interface that integrates all functions. 
 
-- Be an excellent software developer
-- Learn the advanced skills as a system architect
-- Be a project manager after accumulating some experience
-- Interested in machine learning and cyber security
+Since our work does not involve algorithms, if you want to challenge difficult topics, please choose to cooperate with other teams. 
 
-## Skills 
+## Latest news
+    Date       Participant   Finished work
+    2020/10/7  Weikang DU    Add website pictrure
+    2020/10/7  Shizhe LIU    Add a new column
 
-rating: 0 = none, 5 = most experience
+### Group Numbers
 
-### Languages
-   
-2-Java   
-3-C  
-3-C++   
-1-Python  
-0-JavaScript
- 
-### Platform
+Our group members are not a top group compared to other groups. However, all of us have a sense of responsibility and confidence to do everything well. 
 
-3-Windows   
-0-iOS   
-0-Android
- 
-### Other  
+All the people in our group have an optimistic and positive attitude, so this is why our group is called happiness team. 
 
-3-Version Control (Git, SVN, etc.)   
-2-Data Base (SQL, MongoDB, etc.)  
-3-Written English   
-2-Spoken English    
+```markdown
+Here is an introduction to our group numbers
 
-## Positions Wanted 
+# Weikang Du - PM & RA
+He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
 
-Choose all of interest: 0 = no interested, 5 = most interested
+He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
 
-### Roles
+- Characteristic
+1. Handsome
+2. easygoing
+3. humble
+4. outgoing
 
-2-Project Manager   
-5-Requirements Analyst  
-4-System Architect   
-4-Developer  
-3-Tester
+# Shizhe Liu - PM & Liason
 
-## Work Assignments of Interest
+He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
 
-Different teams will work on different parts of the Remote Authentication application. Refer to the Concept of Operations for a description of the application and subsystems. Please indicate which you are interested in working on (0=not interested, 5=most interested).
+He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
 
-3-Game Play  
-4-Client/Server
+- Characteristic
+1. easygoing
+2. responsible
+3. optimistic
 
-## Other Skills or Experience
+# Kedong Xiu - Coder & Tester
+He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
 
-List other skills or experiences potentially useful to a team such as teamwork experience, planning/managing, other programming projects, or work experience.  List any students you would prefer to work with.
+- Characteristic
+1. Strong learning ability
+2. tall
 
-- Have ever developed some software programs in a team
-- Have experience about C/C++ and Java language
-- Prefer to work with Liu Shizhe, Chen Yuzhe, Xiu Kedong and An Di in the class
+# Yuzhe Chen - Coder & Tester
+He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
+
+- Characteristic
+1. funny
+
+# Di An - SA
+He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
+
+- Characteristic
+1. modest
+2. Strong self-study ability 
+
+```
+### Actual team gantt
+<img src="/photo.JPG" width="100%">
+
+### Contact us
+
+If you are interested in the subject of our group, please contact us. 
+
+Please mainly communicate with our project manager, they are Weikang DU and Shizhe LIU 
+
+Weikang DU : 592262731@qq.com or duwk5517@mails.jlu.edu.cn  
+
+Shizhe LIU : 2414946247@qq.com or liusz5517@mails.jlu.edu.cn 
+
+Kedong XIU : 1226448285@qq.com
+
+Yuzhe CHEN : 1059496154@qq.com
+
+Di AN : 255696@qq.com
+
+### More infomation
+
+This website may not look good, but it doesn't mean that our team members are not excellent. 
+In fact, our group members have a strong learning ability and sense of responsibility, which is a trustworthy team. 
