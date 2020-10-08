@@ -64,7 +64,7 @@ He is a senior in Software College of Jilin University. He plans to study in Jap
 
 ```
 ### Actual team gantt
-<img src="/photo.JPG" width="100%">
+<img src="/PHOTO.jpg" width="100%">
 
 ### Contact us
 
