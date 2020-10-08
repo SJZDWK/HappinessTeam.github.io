@@ -84,5 +84,5 @@ Di AN : 255696@qq.com
 
 ### More infomation
 
-This website may not look good, but it doesn't mean that our team members are not excellent. 
+This website may not look good, but it does not mean that our team members are not excellent. 
 In fact, our group members have a strong learning ability and sense of responsibility, which is a trustworthy team. 
