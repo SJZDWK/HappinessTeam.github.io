@@ -1,4 +1,4 @@
-# Welcome to HT(Happyiness Team) Pages
+# Welcome to HT's(Happyiness Team) Pages
 
 We chose Scoliosis Detection via X-ray Photo Recognition as the experimental subject.
 
@@ -7,9 +7,13 @@ The module we are responsible for is the server side. In fact, you can think of 
 Since our work does not involve algorithms, if you want to challenge difficult topics, please choose to cooperate with other teams. 
 
 ## Latest news
-    Date       Participant   Finished work
-    2020/10/7  Weikang DU    Add website pictrure
-    2020/10/7  Shizhe LIU    Add a new column
+    Date        Participant                     Finished work
+    2020/10/9   Yuzhe CHEN & Kedong XIU         Establish related database and write code 
+    2020/10/9   Di An                           Update system architecture document 
+    2020/10/9   Weikang DU & Shizhe LIU         Modify requirement document  
+    2020/10/8   Shizhe LIU                      Communicate with other groups
+    2020/10/7   Weikang DU & Shizhe LIU         Update website    
+             
 
 ### Group Numbers
 
@@ -26,10 +30,7 @@ He is a senior in Software College of Jilin University. His interests include ma
 He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
 
 - Characteristic
-1. Handsome
-2. easygoing
-3. humble
-4. outgoing
+1. Handsome     2. easygoing    3. humble   4. outgoing
 
 # Shizhe Liu - PM & Liason
 
@@ -38,16 +39,13 @@ He is a senior in Software College of Jilin University. His interests include da
 He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
 
 - Characteristic
-1. easygoing
-2. responsible
-3. optimistic
+1. easygoing    2. responsible      3. optimistic
 
 # Kedong Xiu - Coder & Tester
 He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
 
 - Characteristic
-1. Strong learning ability
-2. tall
+1. Strong learning ability      2. tall
 
 # Yuzhe Chen - Coder & Tester
 He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
@@ -59,8 +57,12 @@ He is a senior in Software College of Jilin University. He will go to the Instit
 He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
 
 - Characteristic
-1. modest
-2. Strong self-study ability 
+1. modest   2. Strong self-study ability 
+
+Would you like to see our personal photos? Here are some of the photos I've taken.
+<img src="/DU.jpg" width="100%">
+<img src="/ALL.jpg" width="100%">
+<img src="/DLL.jpg" width="100%">
 
 ```
 ### Actual team gantt
@@ -69,7 +71,6 @@ He is a senior in Software College of Jilin University. He plans to study in Jap
 ### Contact us
 
 If you are interested in the subject of our group, please contact us. 
-
 Please mainly communicate with our project manager, they are Weikang DU and Shizhe LIU 
 
 Weikang DU : 592262731@qq.com or duwk5517@mails.jlu.edu.cn  
