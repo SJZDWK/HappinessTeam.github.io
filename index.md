@@ -76,9 +76,9 @@ Would you like to see our personal photos? Here are some of the photos I've take
 
 I. Travel Photos :
 
-<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="33%">
+    <img src="/DU.jpg" width="30%">    <img src="/ALL.jpg" width="30%">    <img src="/DLL.jpg" width="33%">
 
-<img src="/MAN.jpg" width="37%"><img src="/HZ.jpg" width="37%">
+    <img src="/MAN.jpg" width="37%">    <img src="/HZ.jpg" width="37%">
 
 II. Photo of Weikang Du:
 
