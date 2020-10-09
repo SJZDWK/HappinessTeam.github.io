@@ -30,9 +30,9 @@ Our group members are not a top group compared to other groups. However, all of 
 All the people in our group have an optimistic and positive attitude, so this is why our group is called happiness team. 
 
 ```markdown
-Here is an introduction to our group numbers
+Here is an introduction to our group numbers(Format: Name - Role):
 
-# Weikang Du - PM & RA
+# Weikang DU - PM & RA & Liason
 He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
 
 He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
@@ -40,7 +40,7 @@ He wants to study abroad and study artificial intelligence. At present, he is tr
 - Characteristic
 1. Handsome     2. easygoing    3. humble   4. outgoing
 
-# Shizhe Liu - PM & Liason
+# Shizhe LIU - PM & RA & Liason
 
 He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
 
@@ -49,19 +49,19 @@ He also like playing football and swimming. Although his football level isn't ve
 - Characteristic
 1. easygoing    2. responsible      3. optimistic
 
-# Kedong Xiu - Coder & Tester
+# Kedong XIU - Coder & Tester
 He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
 
 - Characteristic
 1. Strong learning ability      2. tall
 
-# Yuzhe Chen - Coder & Tester
+# Yuzhe CHEN - Coder & Tester
 He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
 
 - Characteristic
 1. funny
 
-# Di An - SA
+# Di AN - SA
 He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
 
 - Characteristic
