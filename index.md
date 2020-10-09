@@ -11,6 +11,7 @@ Since our work does not involve algorithms, if you want to challenge difficult t
 Here we announce the work we have done so that we can track the progress of the task. In addition, some important information will also be announced here. 
 
     Date        Participants                    Finished work OR News
+    ---------   -----------------------         --------------------------------------------------------------------------------
     2020/10/9   Yuzhe CHEN & Kedong XIU         Establish related database and write code 
     2020/10/9   Di An                           Update system architecture document 
     2020/10/9   Weikang DU & Shizhe LIU         Modify requirement document  
