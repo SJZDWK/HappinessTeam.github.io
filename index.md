@@ -72,7 +72,22 @@ He is a senior in Software College of Jilin University. He plans to study in Jap
 ### More about us
 Would you like to see our personal photos? Here are some of the photos I've taken.
 
+Travel Photos :
 <img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="30%">
+
+<img src="/MAN.jpg" width="45%"><img src="/HZ.jpg" width="45%">
+
+-->Photo of Weikang Du:
+<img src="/DWK.jpg" width="50%">
+
+-->Photo of Shizhe LIU:
+<img src="/LSZ.jpg" width="50%">
+
+-->Photo of Yuzhe CHEN:
+<img src="/CYZ.jpg" width="50%">
+
+-->Photo of Kedong XIU:
+<img src="/XKD.jpg" width="60%">
 
 ### Contact us
 
