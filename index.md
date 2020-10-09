@@ -74,7 +74,7 @@ Would you like to see our personal photos? Here are some of the photos I've take
 
 Travel Photos :
 
-<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="30%">
+<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="40%">
 
 <img src="/MAN.jpg" width="45%"><img src="/HZ.jpg" width="45%">
 
