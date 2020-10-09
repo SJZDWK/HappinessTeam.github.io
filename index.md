@@ -74,25 +74,25 @@ Would you like to see our personal photos? Here are some of the photos I've take
 
 Travel Photos :
 
-<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="35%">
+<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="33%">
 
 <img src="/MAN.jpg" width="45%"><img src="/HZ.jpg" width="45%">
 
 -->Photo of Weikang Du:
 
-<img src="/DWK.jpg" width="50%">
+<img src="/DWK.jpg" width="30%">
 
 -->Photo of Shizhe LIU:
 
-<img src="/LSZ.jpg" width="50%">
+<img src="/LSZ.jpg" width="30%">
 
 -->Photo of Yuzhe CHEN:
 
-<img src="/CYZ.jpg" width="50%">
+<img src="/CYZ.jpg" width="30%">
 
 -->Photo of Kedong XIU:
 
-<img src="/XKD.jpg" width="60%">
+<img src="/XKD.jpg" width="30%">
 
 ### Contact us
 
