@@ -17,7 +17,7 @@ Here we announce the work we have done so that we can track the progress of the 
     2020/10/9   Weikang DU & Shizhe LIU         Modify requirement document  
     2020/10/8   Shizhe LIU                      Communicate with other groups
     2020/10/7   Weikang DU & Shizhe LIU         Update website
-    2020/10/7   Rui Zhang(Teacher)              Suggeste us to modify the requirement document and communicate with other groups 
+    2020/10/7   Rui ZHANG(Teacher)              Suggeste us to modify the requirement document and communicate with other groups 
     2020/10/6   Everyone in the group           Determine the plan
     2020/10/5   Di An                           Completed the system architecture document 
     2020/9/26   Weikang DU                      Take IELTS at home
