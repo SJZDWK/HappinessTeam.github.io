@@ -80,21 +80,25 @@ Travel Photos :
 
 <img src="/MAN.jpg" width="37%"><img src="/HZ.jpg" width="37%">
 
--->Photo of Weikang Du:
+-Photo of Weikang Du:
 
 <img src="/DWK.jpg" width="30%">
 
--->Photo of Shizhe LIU:
+-Photo of Shizhe LIU:
 
 <img src="/LSZ.jpg" width="30%">
 
--->Photo of Yuzhe CHEN:
+-Photo of Yuzhe CHEN:
 
 <img src="/CYZ.jpg" width="30%">
 
--->Photo of Kedong XIU:
+-Photo of Kedong XIU:
 
 <img src="/XKD.jpg" width="30%">
+
+-Photo of Di AN:
+
+<img src="/AD.jpg" width="30%">
 
 ### Contact us
 
