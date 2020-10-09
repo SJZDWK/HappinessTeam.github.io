@@ -7,12 +7,18 @@ The module we are responsible for is the server side. In fact, you can think of 
 Since our work does not involve algorithms, if you want to challenge difficult topics, please choose to cooperate with other teams. 
 
 ## Latest news
-    Date        Participant                     Finished work
+
+Here we announce the work we have done so that we can track the progress of the task. In addition, some important information will also be announced here. 
+
+    Date        Participants                    Finished work OR News
     2020/10/9   Yuzhe CHEN & Kedong XIU         Establish related database and write code 
     2020/10/9   Di An                           Update system architecture document 
     2020/10/9   Weikang DU & Shizhe LIU         Modify requirement document  
     2020/10/8   Shizhe LIU                      Communicate with other groups
-    2020/10/7   Weikang DU & Shizhe LIU         Update website    
+    2020/10/7   Weikang DU & Shizhe LIU         Update website
+    2020/10/7   Rui Zhang(Teacher)              Suggeste us to modify the requirement document and communicate with other groups 
+    2020/10/5   Everyone in the group           Determine the plan 
+    2020/9/26   Weikang DU                      Take IELTS at home
              
 
 ### Group Numbers
