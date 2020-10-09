@@ -59,14 +59,14 @@ He is a senior in Software College of Jilin University. He plans to study in Jap
 - Characteristic
 1. modest   2. Strong self-study ability 
 
-Would you like to see our personal photos? Here are some of the photos I've taken.
-<img src="/DU.jpg" width="100%">
-<img src="/ALL.jpg" width="100%">
-<img src="/DLL.jpg" width="100%">
-
 ```
 ### Actual team gantt
 <img src="/PHOTO.jpg" width="100%">
+
+### More about us
+Would you like to see our personal photos? Here are some of the photos I've taken.
+
+<img src="/DU.jpg" width="30%"><img src="/ALL.jpg" width="30%"><img src="/DLL.jpg" width="30%">
 
 ### Contact us
 
