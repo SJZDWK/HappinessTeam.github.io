@@ -8,10 +8,14 @@ Since our work does not involve algorithms, if you want to challenge difficult t
 
 ## Latest news
 
-Here we announce the work we have done so that we can track the progress of the task. In addition, some important information will also be announced here. 
+Here we will announce the work we have done so that we can track the progress of the task. In addition, some important information will also be announced here. 
 
     Date        Participants                    Finished work OR News
-    ---------   -----------------------         --------------------------------------------------------------------------------
+    ---------   -----------------------         ------------------------------------------------------------------------------------------
+    2020/10/13  Di AN                           The module interface is determined in the system architecture document
+    2020/10/12  Everyone in the group           Hold a meeting again to communicate and determine the plan 
+    2020/10/12  Shizhe LIU                      Communicate with Xu HUANG and Guangpeng LI, the relevant interfaces are roughly determined 
+    2020/10/11  Yuzhe CHEN & Kedong XIU         According to the SA document, the database is established and the relevant code is written
     2020/10/9   Yuzhe CHEN & Kedong XIU         Establish related database and write code 
     2020/10/9   Di AN                           Update system architecture document 
     2020/10/9   Weikang DU & Shizhe LIU         Modify requirement document  
