@@ -12,9 +12,11 @@ Here we will announce the work we have done so that we can track the progress of
 
     Date        Participants                    Finished work OR News
     ---------   -----------------------         ------------------------------------------------------------------------------------------
-    2020/10/20  Weikang DU & Shizhe LIU         Write speeches
-    2020/10/19  Yuzhe CHEN                      Finish the interaction code with Gourdland group
-    2020/10/18  Yuzhe CHEN & Kedong XIU         Communicate with other groups
+    2020/10/22  Everyone in the group           Hold a meeting, ask Di AN to modify the SA document 
+    2020/10/22  Shizhe LIU                      Read related literature and try to write test document 
+    2020/10/20  Weikang DU & Shizhe LIU         Discuss matters 
+    2020/10/19  Yuzhe CHEN & Kedong XIU         Finish the interaction code with Gourdland group
+    2020/10/18  Yuzhe CHEN                      Communicate with other groups
     2020/10/15  Shizhe LIU & Weikang DU         Communicate with doctor to clarify requirements
     2020/10/13  Di AN                           The module interface is determined in the system architecture document
     2020/10/12  Everyone in the group           Hold a meeting again to communicate and determine the plan 
@@ -92,7 +94,7 @@ II. Photo of Weikang Du:
 
 <img src="/DWK.jpg" width="30%">
 
-III.Photo of Shizhe LIU:
+III. Photo of Shizhe LIU:
 
 <img src="/LSZ.jpg" width="30%">
 
