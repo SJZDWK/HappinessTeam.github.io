@@ -12,8 +12,12 @@ Here we will announce the work we have done so that we can track the progress of
 
     Date        Participants                    Finished work OR News
     ---------   -----------------------         ------------------------------------------------------------------------------------------
+    2020/10/23  Di An                           Prepare speech 
+    2020/10/23  Yuzhe CHEN                      Prepare for the demonstration
+    2020/10/22  Weikang DU & Yuzhe CHEN         Prepare PPT
+    2020/10/22  Kedong XIU                      Improve testing reports
     2020/10/22  Everyone in the group           Hold a meeting, ask Di AN to modify the SA document 
-    2020/10/22  Shizhe LIU                      Read related literature and try to write test document 
+    2020/10/22  Shizhe LIU &Weikang DU          Read related literature and write testing reports document 
     2020/10/20  Weikang DU & Shizhe LIU         Discuss matters 
     2020/10/19  Yuzhe CHEN & Kedong XIU         Finish the interaction code with Gourdland group
     2020/10/18  Yuzhe CHEN                      Communicate with other groups
