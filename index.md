@@ -12,6 +12,11 @@ Here we will announce the work we have done so that we can track the progress of
 
     Date        Participants                    Finished work OR News
     ---------   -----------------------         ------------------------------------------------------------------------------------------
+    2020/11/6   Shizhe LIU                      Schedule the first integration test(Time:2020/11/9 Place: Ding Xin Library)
+    2020/11/6   Di AN                           Update SA doucment
+    2020/10/30  Weikang DU & Shizhe LIU         Update RA doucment 
+    2020/10/29  Yuzhe CHEN                      Achieve new needs 
+    2020/10/28  Everyone in the group           Discuss new requirements
     2020/10/23  Di An                           Prepare speech 
     2020/10/23  Yuzhe CHEN                      Prepare for the demonstration
     2020/10/22  Weikang DU & Yuzhe CHEN         Prepare PPT
