@@ -12,7 +12,10 @@ Here we will announce the work we have done so that we can track the progress of
 
     Date        Participants                    Finished work OR News
     ---------   -----------------------         ------------------------------------------------------------------------------------------
+    2020/11/9   Yuzhe CHEN & Kedong XIU         Attend integration test meeting (Shizhe LIU & Weikang DU also attended this meeting)
+    2020/11/8   Shizhe LIU & Weikang DU         Arrange a meeting for integration test and plan attend this meeting
     2020/11/6   Shizhe LIU                      Schedule the first integration test(Time:2020/11/9 Place: Ding Xin Library)
+    2020/11/6   Shizhe LIU                      Update TR doucment
     2020/11/6   Di AN                           Update SA doucment
     2020/10/30  Weikang DU & Shizhe LIU         Update RA doucment 
     2020/10/29  Yuzhe CHEN                      Achieve new needs 
@@ -42,7 +45,7 @@ Here we will announce the work we have done so that we can track the progress of
     2020/9/26   Weikang DU                      Take IELTS at home
              
 
-### Group Numbers
+### Group Mumbers
 
 Our group members are not a top group compared to other groups. However, all of us have a sense of responsibility and confidence to do everything well. 
 
@@ -59,7 +62,7 @@ He wants to study abroad and study artificial intelligence. At present, he is tr
 - Characteristic
 1. Handsome     2. easygoing    3. humble   4. outgoing
 
-# Shizhe LIU - PM & RA & Liason
+# Shizhe LIU - PM(Assistant) & RA & Liason
 
 He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
 
